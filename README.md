@@ -2,8 +2,9 @@
 <h3 align="center">A passionate Backend Developer from India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFAB&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+a+Backend+Developer;Node.js+%7C+Express+%7C+MongoDB+Specialist;I+build+secure+%26+scalable+RESTful+APIs;Clean+Code+%7C+%7C+Auth+%26+Security" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFAB&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+a+Backend+Developer;Node.js+%7C+Express+%7C+MongoDB+Specialist;I+build+secure+%26+scalable+RESTful+APIs;Clean+Code+%7C+Performance+%7C+Auth+%26+Security" alt="Typing SVG" />
 </p>
+
 
 
 ---
@@ -12,7 +13,7 @@
 - 🔭 I’m currently working on building **scalable and secure REST APIs**
 - 🌱 I’m currently learning **Authentication, Authorization, and MongoDB Aggregation**
 - 💬 Ask me about **Node.js, Express.js, MongoDB, JWT, REST APIs**
-- ⚡ Fun fact: I debug with chai ☕ not cry 😄
+
 
 ---
 
