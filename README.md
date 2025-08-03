@@ -33,9 +33,9 @@
 ---
 
 ### 📫 Contact Me
-- 📧 Email: `yourmail@example.com`
-- 💼 LinkedIn: [YourLinkedInProfile](https://www.linkedin.com/in/your-profile)
-- 🌍 Portfolio: [YourPortfolio.com](https://yourportfolio.com) _(optional)_
+- 📧 Email: `mushffiqurkhan29@gmail.com`
+- 💼 LinkedIn: linkedin.com/in/mushffiqur-khan-pathan-94b537310
+
 
 ---
 
