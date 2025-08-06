@@ -36,7 +36,7 @@
 
 ### 📫 Contact Me
 - 📧 Email: `mushffiqurkhan29@gmail.com`
-- 💼 LinkedIn: linkedin.com/in/mushffiqur-khan-pathan-94b537310
+- 💼 LinkedIn:[linkedin.com/in/mushffiqur-khan-pathan-94b537310](https://www.linkedin.com/in/mushffiqur-khan-pathan-94b537310/)
 
 
 ---
